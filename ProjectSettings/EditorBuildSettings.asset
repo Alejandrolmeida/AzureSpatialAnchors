@@ -17,7 +17,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/AzureSpatialAnchorsPlugin/Examples/Scenes/AzureSpatialAnchorsLocalSharedDemo.unity
     guid: f540d2472b41fdb4bb6a7f47521b0bdd
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Bravent/Scenes/SlimerShared.unity
     guid: 414fd750d349a9649a153992b97c4022
+  - enabled: 1
+    path: Assets/_Bravent/Scenes/SlimerSharedClient.unity
+    guid: 729cb5781c4107b4ea5822228a3e2b48
   m_configObjects: {}

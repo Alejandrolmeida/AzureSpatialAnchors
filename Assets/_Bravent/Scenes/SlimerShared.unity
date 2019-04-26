@@ -1343,6 +1343,12 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114613638641686716, guid: 45cd014bb2996fe4889890850b3f457d,
+        type: 3}
+      propertyPath: ArCoreCameraTree
+      value: 
+      objectReference: {fileID: 1772147192650458, guid: c10877f7cd5764de18d46d7b777d1faa,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45cd014bb2996fe4889890850b3f457d, type: 3}
 --- !u!1 &598612951
