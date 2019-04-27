@@ -27,6 +27,9 @@ public class CameraRayScript : MonoBehaviour
                         gun.launcher.LaunchRay();
                     }
                 }
+
+                hit.transform.gameObject.GetComponent<EnemyHealth>().AddjustCurrentHealth(-1);
+
             }
         }
         else
