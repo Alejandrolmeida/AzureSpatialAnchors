@@ -11,3 +11,5 @@ This repository contains all resources used on my session with my team mate Marc
 During this session we will discover the technical aspects of this service and its ability to integrate technologies present in current operating systems such as ARKit (Android), ARCore (iOS), and UWP (Hololens).
 
 To liven up the session we will develop a multi-device experience (Hololens + Android) where players can join together to hunt as a team some terrifying ghosts!
+
+More info: https://www.azurebootcamp.es
