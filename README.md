@@ -2,7 +2,7 @@ The Microsoft Mixed Reality stack has arrived at Azure to provide us with new Pa
 
 Azure Spatial Anchors is one of these amazing services that allows us to solve the classic problems during the sharing of holograms in multi-device experiences in the same physical space.
 
-This repository contains all the material used for my session at the Global Azure Bootcamp 2019 in Madrid, named: "AnchorBusters: discovering Azure Spatial Anchors!"
+This repository contains all resources used for my session at the Global Azure Bootcamp 2019 in Madrid, named: "AnchorBusters: discovering Azure Spatial Anchors!"
 
 During this session we will discover the technical aspects of this service and its ability to integrate technologies present in current operating systems such as ARKit (Android), ARCore (iOS), and UWP (Hololens).
 
