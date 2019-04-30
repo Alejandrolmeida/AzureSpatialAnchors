@@ -6,6 +6,8 @@ Azure Spatial Anchors is one of these amazing services that allows us to solve t
 
 This repository contains all resources used for my session at the Global Azure Bootcamp 2019 in Madrid, named: "AnchorBusters: discovering Azure Spatial Anchors!"
 
+![AnchorBusters: discovering Azure Spatial Anchors!](Presentation/session.png)
+
 During this session we will discover the technical aspects of this service and its ability to integrate technologies present in current operating systems such as ARKit (Android), ARCore (iOS), and UWP (Hololens).
 
 To liven up the session we will develop a multi-device experience (Hololens + Android) where players can join together to hunt as a team some terrifying ghosts!
