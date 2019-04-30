@@ -179,7 +179,7 @@ namespace Microsoft.Azure.SpatialAnchors.Unity.Samples
         }
 
 
-        float waitTime = 2f;
+        float waitTime = 3f;
         float counter = 0f;
 
         /// <summary>
