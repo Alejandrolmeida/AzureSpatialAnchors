@@ -1,6 +1,6 @@
-![AnchorBusters: discovering Azure Spatial Anchors!](Presentation/session.png)
-
 # **AnchorBusters: discovering Azure Spatial Anchors!**
+
+![AnchorBusters: discovering Azure Spatial Anchors!](Presentation/session.png)
 
 The Microsoft Mixed Reality stack has arrived at Azure to provide us with new PaaS services that allow the developer to improve the capabilities of our XR scenes.
 
